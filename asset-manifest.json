@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://novic24.github.io/csb-efvxj/static/css/main.fbf817db.chunk.css",
+    "main.js": "https://novic24.github.io/csb-efvxj/static/js/main.8dc01dbb.chunk.js",
+    "main.js.map": "https://novic24.github.io/csb-efvxj/static/js/main.8dc01dbb.chunk.js.map",
+    "runtime-main.js": "https://novic24.github.io/csb-efvxj/static/js/runtime-main.cf430fc7.js",
+    "runtime-main.js.map": "https://novic24.github.io/csb-efvxj/static/js/runtime-main.cf430fc7.js.map",
+    "static/js/2.0c30e093.chunk.js": "https://novic24.github.io/csb-efvxj/static/js/2.0c30e093.chunk.js",
+    "static/js/2.0c30e093.chunk.js.map": "https://novic24.github.io/csb-efvxj/static/js/2.0c30e093.chunk.js.map",
+    "static/js/3.e2962415.chunk.js": "https://novic24.github.io/csb-efvxj/static/js/3.e2962415.chunk.js",
+    "static/js/3.e2962415.chunk.js.map": "https://novic24.github.io/csb-efvxj/static/js/3.e2962415.chunk.js.map",
+    "index.html": "https://novic24.github.io/csb-efvxj/index.html",
+    "static/css/main.fbf817db.chunk.css.map": "https://novic24.github.io/csb-efvxj/static/css/main.fbf817db.chunk.css.map",
+    "static/js/2.0c30e093.chunk.js.LICENSE.txt": "https://novic24.github.io/csb-efvxj/static/js/2.0c30e093.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf430fc7.js",
+    "static/js/2.0c30e093.chunk.js",
+    "static/css/main.fbf817db.chunk.css",
+    "static/js/main.8dc01dbb.chunk.js"
+  ]
+}
